@@ -37,7 +37,7 @@ Storage: 20GB
 
 Software Requirements
 
-Operating system: Apple MacOS or Linux
+Operating system: Apple MacOS, Windows or Linux
 
 Browser: Any
 
